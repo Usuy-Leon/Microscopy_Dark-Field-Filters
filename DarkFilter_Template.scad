@@ -21,8 +21,7 @@ Microscopist, National University of Colombia, Bogota DC,
  
 height = 3;         // Total height of the filter
 outer_dia = 32;     // Outer diameter of the main structure
-inner_dia = 10
-0;     // Diameter of the light-blocking center cylinder
+inner_dia = 10;     // Diameter of the light-blocking center cylinder
 border_thickness = 2; // Thickness of the outer border
 $fn = 150;          // Number of facets "resolution"
 
