@@ -11,11 +11,6 @@ This 3D-printed / laser-cut design is created for contrast illumination techniqu
 
 
 
-![Bear In Water Gif](https://github.com/user-attachments/assets/a2113a0f-d6d0-49a2-a4c0-ad0ea6c1082f)
-
-
-
-
 # How to use it?
 
 
