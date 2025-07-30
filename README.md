@@ -8,6 +8,10 @@ An open-source filter for a custom dark-field setup that can be adapted to any c
 
 This 3D-printed / laser-cut design is created for contrast illumination techniques, aimed at microscopy enthusiasts and professionals.
 
+
+![Bear In Water Gif](https://github.com/user-attachments/assets/a2113a0f-d6d0-49a2-a4c0-ad0ea6c1082f)
+
+
 # How to use it?
 
 Simply download the correct STL file for your prints.
