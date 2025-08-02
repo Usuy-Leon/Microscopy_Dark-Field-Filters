@@ -8,7 +8,6 @@ An open-source filter for a custom dark-field setup that can be adapted to any c
 
 This 3D-printed / laser-cut design is created for contrast illumination techniques, aimed at microscopy enthusiasts and professionals.
 
-.
 
 # Why Improve Contrast?
 
@@ -31,13 +30,13 @@ Simply download the correct STL file for your prints.
 >  You can download the OpenScad file (1 file for folder) and **very easily** edit each parameter of the filter.
  
 - [ ] Download and install OpenScad (Free an open sofware for CAD files)
- -  " https://openscad.org/downloads.html "
+   - " https://openscad.org/downloads.html "
 - [ ] Open the file using the program and look for parameters of the filter
 
-    <img width="1000" height="344" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
+    <img width="800" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
 
 - [ ] Simply edit to your needs
- -  All measurement are in milimiters
+   - All measurement are in milimiters
 - [ ] Generate a new STL file, save it and you are ready to print.
 
 
