@@ -61,6 +61,10 @@ Most microscopes have a way to add a filter in the optical path between the ilum
 
 The diameter of the opaque stop should be approximately 8mm for the 10X objective of N.A. 0.25 to approximately 15mm for objectives of N.A. 0.65.
 
+
+
+<img width="1300" height="323" alt="image" src="https://github.com/user-attachments/assets/710ad9fb-9744-4053-99a7-2c357e4416d7" />
+
 > **MAKE SURE !**
 >  1. Your condenser is as close to the sample as possible !
 >  2. The Field Diafragm is at least 90 % open !
