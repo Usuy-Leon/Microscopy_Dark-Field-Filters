@@ -71,6 +71,8 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
 >  3. Beyond 0.65 NA Spider stop filters are harder to use and allign !
 
 
+![daph_Dark](https://github.com/user-attachments/assets/f4cad830-730c-4dc8-8664-54d7b1bbb2bf)
+
 
 # Recomended readings
    - Abramowitz, Mortimer; Microscope Basics and Beyond Vol, 2; Olympus Corporation 1990
