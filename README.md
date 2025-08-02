@@ -57,7 +57,7 @@ Simply download the correct STL file for your prints.
 
 Most microscopes have a way to add a filter in the optical path between the ilumination and the condenser.
 
-<img width="1741" height="515" alt="image" src="https://github.com/user-attachments/assets/11bfb982-eb0a-4e83-ace3-359706c6d1ca" />
+<img width="1500" height="480" alt="image" src="https://github.com/user-attachments/assets/11bfb982-eb0a-4e83-ace3-359706c6d1ca" />
 
 The diameter of the opaque stop should be approximately 8mm for the 10X objective of N.A. 0.25 to approximately 15mm for objectives of N.A. 0.65.
 
@@ -65,6 +65,15 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
 >  1. Your condenser is as close to the sample as possible !
 >  2. The Field Diafragm is at least 90 % open !
 >  3. Beyond 0.65 NA Spider stop filters are harder to use and allign !
+
+
+
+# Recomended readings
+   - Abramowitz, Mortimer; Microscope Basics and Beyond Vol, 2; Olympus Corporation 1990
+   - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
+   - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
+   - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
