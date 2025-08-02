@@ -63,7 +63,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
 
 
 
-<img width="1300" height="323" alt="image" src="https://github.com/user-attachments/assets/710ad9fb-9744-4053-99a7-2c357e4416d7" />
+<img width="800" height="323" alt="image" src="https://github.com/user-attachments/assets/710ad9fb-9744-4053-99a7-2c357e4416d7" />
 
 > **MAKE SURE !**
 >  1. Your condenser is as close to the sample as possible !
