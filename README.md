@@ -58,6 +58,7 @@ Simply download the correct STL file for your prints.
 Most microscopes have a way to add a filter in the optical path between the ilumination and the condenser.
 
 <img width="1500" height="480" alt="image" src="https://github.com/user-attachments/assets/11bfb982-eb0a-4e83-ace3-359706c6d1ca" />
+(Taken from Abramowitz, Olympus Corporation 1990)
 
 The diameter of the opaque stop should be approximately 8mm for the 10X objective of N.A. 0.25 to approximately 15mm for objectives of N.A. 0.65.
 
