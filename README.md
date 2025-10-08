@@ -70,8 +70,11 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
 >  2. The Field Diafragm is at least 90 % open !
 >  3. Beyond 0.65 NA Spider stop filters are harder to use and allign !
 
+# This is How it looks!
 
 ![daph_Dark](https://github.com/user-attachments/assets/f4cad830-730c-4dc8-8664-54d7b1bbb2bf)
+
+Daphnia sp, 25x, Custume Dark Field
 
 
 # Recomended readings
