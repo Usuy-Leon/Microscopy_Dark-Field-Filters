@@ -26,12 +26,11 @@ Using chemical dyes or fixatives can change the sample, so scientists have been 
 
 Simply download the correct STL file for your prints.
 
-</div>
-<div align="center">
+>
 
 ![video1](https://github.com/user-attachments/assets/3f7def72-e6ca-41c2-bca9-49981f7a2a8b)
 
-</div>
+
 <div align="left">
  
 # Want to customize the design for your own specific objective or microscope?
