@@ -12,7 +12,7 @@ An open-source filter for a custom dark-field setup that can be adapted to any c
 
 This 3D-printed / laser-cut design is created for contrast illumination techniques, aimed at microscopy enthusiasts and professionals.
 
-
+<hr>
 </div>
 <div align="left">
  
