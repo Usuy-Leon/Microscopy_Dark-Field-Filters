@@ -105,6 +105,8 @@ Daphnia sp, 25x, Custume Dark Field
 </div>
 <div align="left">
 
+# For the spanish version check the LEEME.md!
+
 # Recomended readings
    - Abramowitz, Mortimer; Microscope Basics and Beyond Vol, 2; Olympus Corporation 1990
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
