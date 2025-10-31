@@ -19,8 +19,6 @@ This 3D-printed / laser-cut design is created for contrast illumination techniqu
 # Why Improve Contrast?
 In microscopy, a lot of samples especially those that aren’t stained or are still alive have such low contrast that even with a good microscope lens, important details are hard to see. improving contrast is key to making these details visible without messing up or damaging the sample.
 
-Using chemical dyes or fixatives can change the sample, so scientists have been trying to find ways to improve contrast in unstained samples without subjecting them to harsh chemicals or heat. While common tricks like closing the condenser aperture below 60% or lowering the substage condenser do boost contrast, they also reduce the sharpness and resolution of the image. So, looking for methods to enhance contrast that keep both the sample intact and the image clear is still the goal of all good microscopist.
-
 # How to use it for 3D printing?
 
 
